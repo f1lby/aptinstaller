@@ -22,6 +22,7 @@ feroxbuster
 filezilla
 flameshot
 flatpak
+openfortivpn
 gedit
 gigolo
 goshs
