@@ -18,7 +18,7 @@ Usage Notes:
 <i>sudo ./aptinstaller.sh</i>
 
 <br><br><br>
-Latest updates to this distro include;
+Latest updates to this distro include;<br>
 Openvpn client<br>
 Forticlient<br>
 Nvidia display drivers<br>
@@ -28,6 +28,7 @@ https://www.youtube.com/f1lby
 <br><br><br>
 Disclaimer; No warranty is given for any inaccuracies, loss of service or otherwise. My hovercraft is full of eels.
 <br><br>
+
 
 
 
