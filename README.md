@@ -10,9 +10,9 @@ Version 1.00 Beta
 
 Usage Notes:
 
-1) Ensure the file aptinstaller.sh is made executable. This can be done by running the command chmod +x aptinstaller.sh
+1) Ensure the file <i>aptinstaller.sh</i> is made executable. This can be done by running the command <i>chmod +x aptinstaller.sh</i>
 
-2) Ensure the supporting file aptpackages.txt is present (this is the reference file for all package names that will be installed. You can amend this to suit your needs.
+2) Ensure the supporting file <i>aptpackages.txt</i> is present (this is the reference file for all package names that will be installed. You can amend this to suit your needs.
 3) Run the script using the following command line syntax<br>
 <i>./aptinstaller.sh</i><br>
 <b>or as root</b><br>
@@ -29,6 +29,7 @@ https://www.youtube.com/f1lby
 <br><br><br>
 Disclaimer; No warranty is given for any inaccuracies, loss of service or otherwise. My hovercraft is full of eels.
 <br><br>
+
 
 
 
