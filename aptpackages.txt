@@ -54,6 +54,9 @@ mtr
 multipath-tools
 ncat
 npm
+nvidia-detect
+nvidia-driver
+nvidia-cuda-toolkit
 obs-studio
 open-iscsi
 openfortivpn
