@@ -5,8 +5,8 @@
 
 ### ** Written by F1lby **
 Version 1.00 Beta
-05 January 2026
-As of 10 January 2026, 105 packages are installed.
+05 January 2026<br>
+<b>As of 10th January 2026, 105 packages are included in the <i>aptpackages.txt</i> file.</b>
 
 Usage Notes:
 
@@ -29,6 +29,7 @@ https://www.youtube.com/f1lby
 <br><br><br>
 Disclaimer; No warranty is given for any inaccuracies, loss of service or otherwise. My hovercraft is full of eels.
 <br><br>
+
 
 
 
