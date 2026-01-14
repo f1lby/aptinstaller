@@ -54,6 +54,7 @@ mtr
 multipath-tools
 ncat
 npm
+ntpsec
 nvidia-detect
 nvidia-driver
 nvidia-cuda-toolkit
