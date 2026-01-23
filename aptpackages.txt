@@ -14,6 +14,7 @@ chkrootkit
 dbeaver
 dirsearch
 dnsutils
+docker-cli
 docker.io
 droopy
 dsniff
