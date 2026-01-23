@@ -14,8 +14,8 @@ chkrootkit
 dbeaver
 dirsearch
 dnsutils
-docker-cli
 docker.io
+docker-cli
 droopy
 dsniff
 enum4linux-ng
