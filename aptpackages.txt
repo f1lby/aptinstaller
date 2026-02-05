@@ -98,6 +98,7 @@ tightvncserver
 tnscmd10g
 unicornscan
 vsftpd
+webhttrack
 wine
 wmctrl
 xrdp
