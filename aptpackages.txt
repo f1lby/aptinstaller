@@ -76,6 +76,7 @@ putty
 putty-tools
 python3-pip
 rdate
+realtek-rtl88xxau-dkms
 remmina
 ridenum
 rfkill
