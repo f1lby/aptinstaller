@@ -4,9 +4,9 @@
 # This tool uses the APT tool.
 
 ### ** Written by F1lby **
-Version 1.00 Beta
-05 January 2026<br>
-<b>As of 10th January 2026, <b><i>105</i></b> packages are included in the <i>aptpackages.txt</i> file.</b>
+Version 1.01
+14 May 2026<br>
+<b>As of 14th May 2026, <b><i>105</i></b> packages are included in the <i>aptpackages.txt</i> file.</b>
 
 Usage Notes:
 
