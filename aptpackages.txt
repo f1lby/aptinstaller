@@ -35,6 +35,7 @@ hashdeep
 hcxdumptool
 hcxtools
 hostapd
+hostapd-mana
 htop
 ipcalc
 irpas
