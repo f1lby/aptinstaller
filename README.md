@@ -20,9 +20,7 @@ Usage Notes:
 
 <br><br><br>
 Latest updates to this distro include;<br>
-Openvpn client<br>
-Forticlient<br>
-Nvidia display drivers<br>
+Wi-Fi Testing Tools<br>
 <br><br>
 https://www.youtube.com/f1lby
 
