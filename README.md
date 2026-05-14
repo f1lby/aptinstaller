@@ -6,7 +6,7 @@
 ### ** Written by F1lby **
 Version 1.01
 14 May 2026<br>
-<b>As of 14th May 2026, <b><i>116</i></b> packages are included in the <i>aptpackages.txt</i> file.</b>
+<b>As of 14th May 2026, <b><i>117</i></b> packages are included in the <i>aptpackages.txt</i> file.</b>
 
 Usage Notes:
 
@@ -21,6 +21,10 @@ Usage Notes:
 <br><br><br>
 Latest updates to this distro include;<br>
 Wi-Fi Testing Tools<br>
+airgeddon
+hostapd
+dnsmasq
+
 <br><br>
 https://www.youtube.com/f1lby
 
