@@ -13,6 +13,7 @@ cifs-utils
 chkrootkit
 dbeaver
 dirsearch
+dnsmasq
 dnsutils
 docker.io
 docker-cli
@@ -33,6 +34,7 @@ hashrat
 hashdeep
 hcxdumptool
 hcxtools
+hostapd
 htop
 ipcalc
 irpas
@@ -49,6 +51,7 @@ libguestfs-tools
 libreoffice
 lynis
 lshw
+mdk4
 miniupnpc
 mongodb-clients
 mtr
