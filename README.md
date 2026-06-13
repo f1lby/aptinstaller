@@ -1,12 +1,13 @@
 # Kali Linux App Build Script
 
-# A tool to streamline application install for Kali Linux
+# A tool to streamline / automate application install for Kali Linux
 # This tool uses the APT tool.
+# Whilst Kali comes with a good suite of software, this installer adds in applications that I have found necessary at some time or another when perform penetration testing.
 
 ### ** Written by F1lby **
 Version 1.01
-14 May 2026<br>
-<b>As of 14th May 2026, <b><i>117</i></b> packages are included in the <i>aptpackages.txt</i> file.</b>
+15 June 2026<br>
+<b><i>117</i></b> packages are included in the <i>aptpackages.txt</i> file.</b>
 
 Usage Notes:
 
