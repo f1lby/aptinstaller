@@ -10,6 +10,7 @@ bluetooth
 bluez
 bluez-tools
 braa
+build-essential
 cifs-utils
 chkrootkit
 dbeaver
@@ -25,6 +26,7 @@ enum4linux-ng
 feroxbuster
 filezilla
 firmware-linux
+firmware-mediatek
 flameshot
 flatpak
 gedit
