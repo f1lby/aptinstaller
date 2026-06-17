@@ -60,6 +60,7 @@ lshw
 mdk4
 miniupnpc
 mongodb-clients
+moreutils
 mtr
 multipath-tools
 ncat
