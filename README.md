@@ -2,7 +2,7 @@
 
 # A tool to streamline / automate application install for Kali Linux
 # This tool uses the APT tool.
-# Whilst Kali comes with a good suite of software, this installer adds in applications that I have found necessary at some time or another when perform penetration testing.
+# Whilst Kali comes with a good suite of software, this installer adds in applications that I have found necessary at some time or another when performing penetration testing / security auditing.
 
 ### ** Written by F1lby **
 Version 1.01
