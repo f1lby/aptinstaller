@@ -9,6 +9,7 @@ bloodyad
 bluetooth
 bluez
 bluez-tools
+bpytop
 braa
 build-essential
 cifs-utils
