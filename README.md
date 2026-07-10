@@ -6,8 +6,8 @@
 
 ### ** Written by F1lby **
 Version 1.01
-15 June 2026<br>
-<b><i>120</i></b> packages are included in the <i>aptpackages.txt</i> file.</b>
+10 July 2026<br>
+<b><i>121</i></b> packages are included in the <i>aptpackages.txt</i> file.</b>
 
 Usage Notes:
 
