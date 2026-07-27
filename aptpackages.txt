@@ -33,6 +33,8 @@ flatpak
 gedit
 gigolo
 goshs
+gpsd
+gpsd
 grc
 gobuster
 grepcidr
