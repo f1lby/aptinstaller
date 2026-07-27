@@ -25,6 +25,7 @@ Wi-Fi Testing Tools<br>
 airgeddon
 hostapd
 dnsmasq
+gps (for wardriving)
 
 <br><br>
 https://www.youtube.com/f1lby
