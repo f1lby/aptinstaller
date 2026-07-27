@@ -21,11 +21,7 @@ Usage Notes:
 
 <br><br><br>
 Latest updates to this distro include;<br>
-Wi-Fi Testing Tools<br>
-airgeddon
-hostapd
-dnsmasq
-gps (for wardriving)
+Wi-Fi Testing Tools | airgeddon | hostapd | dnsmasq | gps (for wardriving)
 
 <br><br>
 https://www.youtube.com/f1lby
