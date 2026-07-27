@@ -34,7 +34,7 @@ gedit
 gigolo
 goshs
 gpsd
-gpsd
+gpsd-clients
 grc
 gobuster
 grepcidr
