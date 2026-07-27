@@ -65,6 +65,8 @@ moreutils
 mtr
 multipath-tools
 ncat
+network-manager-openvpn
+network-manager-openvpn-gnome
 npm
 ntpsec
 ntpsec-ntpdate
