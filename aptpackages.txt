@@ -120,7 +120,3 @@ webhttrack
 wine
 wmctrl
 xrdp
-nvidia-detect
-nvidia-driver
-nvidia-cuda-toolkit
-nvidia-detect
