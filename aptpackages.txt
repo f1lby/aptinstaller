@@ -120,3 +120,4 @@ webhttrack
 wine
 wmctrl
 xrdp
+zmap
