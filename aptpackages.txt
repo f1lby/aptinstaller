@@ -52,6 +52,7 @@ jq
 jython
 kali-autopilot
 kali-tools-web
+kolourpaint
 libnet1-dev
 ldeep
 libpcap-dev
