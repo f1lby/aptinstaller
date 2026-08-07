@@ -33,6 +33,7 @@ flameshot
 flatpak
 gedit
 gigolo
+gimp
 goshs
 gpsd
 gpsd-clients
