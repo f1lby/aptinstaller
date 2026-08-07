@@ -47,6 +47,7 @@ hcxtools
 hostapd
 hostapd-mana
 htop
+inkscape
 ipcalc
 irpas
 jq
