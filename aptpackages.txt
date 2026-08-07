@@ -5,6 +5,7 @@ amap
 apt-transport-https
 autoconf
 bloodhound
+bloodhound.py
 bloodyad
 bluetooth
 bluez
