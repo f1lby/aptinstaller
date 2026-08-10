@@ -41,6 +41,7 @@ gpsd-clients
 grc
 gobuster
 grepcidr
+gunicorn
 hashrat
 hashdeep
 hcxdumptool
