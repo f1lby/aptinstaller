@@ -26,6 +26,7 @@ docker-cli
 droopy
 dsniff
 enum4linux-ng
+evil-winrm-py
 feroxbuster
 filezilla
 firmware-linux
