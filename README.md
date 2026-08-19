@@ -5,9 +5,9 @@
 # Whilst Kali comes with a good suite of software, this installer adds in applications that I have found necessary at some time or another when performing penetration testing / security auditing.
 
 ### ** Written by F1lby **
-Version 1.01
-27 July 2026<br>
-<b><i>122</i></b> packages are included in the <i>aptpackages.txt</i> file.</b>
+Version 1.02
+Updated 19 August 2026<br>
+<b><i>129</i></b> packages are included in the <i>aptpackages.txt</i> file.</b>
 
 Usage Notes:
 
