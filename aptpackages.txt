@@ -59,6 +59,7 @@ kali-autopilot
 kali-tools-web
 kolourpaint
 krb5-user
+krb5-k5tls
 libnet1-dev
 ldeep
 libpcap-dev
