@@ -92,6 +92,7 @@ oscanner
 p7zip-full
 pipx
 p0f
+podman-docker
 putty
 putty-tools
 python3-pip
