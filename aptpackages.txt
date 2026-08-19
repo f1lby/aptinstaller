@@ -96,6 +96,7 @@ podman-docker
 putty
 putty-tools
 python3-pip
+qemu-system-x86
 rdate
 realtek-rtl88xxau-dkms
 remmina
