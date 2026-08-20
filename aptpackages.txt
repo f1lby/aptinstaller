@@ -73,6 +73,8 @@ mdk4
 miniupnpc
 mongodb-clients
 moreutils
+mosquitto
+mosquitto-clients
 mtr
 multipath-tools
 ncat
