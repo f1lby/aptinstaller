@@ -67,6 +67,7 @@ libgtk2.0-dev
 libgtk-3-dev
 libguestfs-tools
 libreoffice
+libssl-dev
 lynis
 lshw
 mdk4
