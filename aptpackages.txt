@@ -21,6 +21,7 @@ dirsearch
 dkms
 dnsmasq
 dnsutils
+docker-compose
 docker.io
 docker-cli
 droopy
