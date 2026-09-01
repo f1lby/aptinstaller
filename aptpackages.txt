@@ -99,6 +99,7 @@ p0f
 podman-docker
 putty
 putty-tools
+pyenv
 python3-pip
 qemu-system-x86
 rdate
