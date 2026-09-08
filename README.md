@@ -7,7 +7,7 @@
 ### ** Written by F1lby **
 Version 1.02
 Updated 08 September 2026<br>
-<b><i>139</i></b> packages are included in the <i>aptpackages.txt</i> file.</b>
+<b><i>142</i></b> packages are included in the <i>aptpackages.txt</i> file.</b>
 
 Usage Notes:
 
