@@ -62,6 +62,7 @@ kolourpaint
 krb5-user
 krb5-k5tls
 libnet1-dev
+libsox-fmt-all
 ldeep
 libc-ares-dev
 libpcap-dev
@@ -121,6 +122,7 @@ slowhttptest
 snapd
 snmp-mibs-downloader
 software-properties-common
+sox
 ssh-audit
 sshuttle
 t50
