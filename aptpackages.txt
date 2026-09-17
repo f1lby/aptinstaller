@@ -29,6 +29,7 @@ dsniff
 enum4linux-ng
 evil-winrm-py
 feroxbuster
+ffmpeg
 filezilla
 firmware-linux
 firmware-mediatek
