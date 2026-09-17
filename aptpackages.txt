@@ -54,6 +54,7 @@ htop
 inkscape
 ipcalc
 irpas
+joomscan
 jq
 jython
 kali-autopilot
