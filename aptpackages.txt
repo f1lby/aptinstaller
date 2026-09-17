@@ -136,6 +136,7 @@ tightvncserver
 tnscmd10g
 unicornscan
 usbview
+vlc
 vsftpd
 webhttrack
 wine
